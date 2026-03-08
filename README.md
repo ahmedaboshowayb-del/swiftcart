@@ -67,7 +67,7 @@ Clean Architecture with strict layer separation:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/swiftcart.git
+git clone https://github.com/ahmedaboshowayb-del/swiftcart.git
 cd swiftcart
 ```
 
