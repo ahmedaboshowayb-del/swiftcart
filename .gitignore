@@ -1,0 +1,55 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+**/android/app/google-services.json
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# Firebase secrets — NEVER commit these
+google-services.json
+GoogleService-Info.plist
+lib/firebase_options.dart
+lib/scripts/serviceAccountKey.json
+serviceAccountKey.json
+**/*serviceAccount*.json
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Node (seed script)
+lib/scripts/node_modules/
+lib/scripts/package-lock.json
+```
+
+---
+
+## STEP 7 — Open PowerShell inside your project
+```
+1. Open File Explorer
+2. Navigate to: C:\Users\ahmed\Desktop\Flutter Projects\swiftcart
+3. Click the address bar at the top
+4. Type "powershell" and press Enter
+   ↳ This opens PowerShell directly inside your project folder
