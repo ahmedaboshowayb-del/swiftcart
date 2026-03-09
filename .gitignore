@@ -42,14 +42,3 @@ serviceAccountKey.json
 # Node (seed script)
 lib/scripts/node_modules/
 lib/scripts/package-lock.json
-```
-
----
-
-## STEP 7 — Open PowerShell inside your project
-```
-1. Open File Explorer
-2. Navigate to: C:\Users\ahmed\Desktop\Flutter Projects\swiftcart
-3. Click the address bar at the top
-4. Type "powershell" and press Enter
-   ↳ This opens PowerShell directly inside your project folder
